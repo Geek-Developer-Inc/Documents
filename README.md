@@ -73,3 +73,9 @@
     git fetch             从远程获取代码库
     git pull              下载运程代码并合并
     git push              上传运程代码并合并
+
+
+## Cloning the repo
+
+    $ git clone https://github.com/GeekDevelope/Embedded-software.git
+    
